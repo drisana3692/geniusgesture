@@ -1,0 +1,40 @@
+body
+{
+    background-image: linear-gradient(to right, #BFF098  , #6FD6FF);
+}
+span
+{
+  font-size: 40px;
+}
+#camera , #result
+{
+  border: 3px dashed rgb(77, 102, 158);
+  width: 350px;
+  height: 300px; }
+.heading {
+  font-size:18px;
+border-radius: 10px;
+letter-spacing: 3px;
+}
+label {
+  font-size: 16px;
+  color: rgb(32, 124, 124);
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+p {
+    color: orange;
+    font-weight: 500;
+}
+#mockignbird {
+    font-size:larger;
+    font-weight: bold;
+}
+#no {
+    color: rgb(55, 130, 216);
+    font-size: 16px;
+    padding: 6px;
+  border-radius: 10px;
+  font-weight: bold;
+}
